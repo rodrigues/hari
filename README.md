@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/Clubjudge/hari.png?branch=master)](https://travis-ci.org/Clubjudge/hari)
+[![Build Status](https://travis-ci.org/rodrigues/hari.png?branch=master)](https://travis-ci.org/rodrigues/hari)
 
-[http://rubydoc.info/github/Clubjudge/hari](http://rubydoc.info/github/Clubjudge/hari)
+[http://rubydoc.info/github/rodrigues/hari](http://rubydoc.info/github/rodrigues/hari)
 
 # Hari
 
@@ -44,7 +44,7 @@ Hari(user: 20).set(:friends_ids) & Hari(user: 30).set(:friends_ids)
 
 By now, you're probably wandering what the `Hari()` method does. It accepts an object like `user` as a parameter, or an identification of this object like `"user#20"`, or even `{user: 30}` and returns a `Hari::Node` representation of the object referenced so you can call all operations available in Hari.
 
-### [Lists](https://github.com/Clubjudge/hari/wiki/Lists), [Sets](https://github.com/Clubjudge/hari/wiki/Sets) and [Sorted Sets](https://github.com/Clubjudge/hari/wiki/Sorted-Sets) operations are available in the Wiki.
+### [Lists](https://github.com/rodrigues/hari/wiki/Lists), [Sets](https://github.com/rodrigues/hari/wiki/Sets) and [Sorted Sets](https://github.com/rodrigues/hari/wiki/Sorted-Sets) operations are available in the Wiki.
 
 ## Relationships
 
